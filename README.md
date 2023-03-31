@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I work on Artificial Intelligence and Knowledge Representation and Reasoning.
-- 💬 My personal website is: (https://www.marcomochi.me "Marco Mochi")
-- 🌱 My Google Scholar profile is: (https://scholar.google.com/citations?user=tQcrNGIAAAAJ&hl=it "Google's Homepage")
+- 💬 My personal website is: [here](https://www.marcomochi.me "Marco Mochi")
+- 🌱 My Google Scholar profile is: [here](https://scholar.google.com/citations?user=tQcrNGIAAAAJ&hl=it "Google's Homepage")
